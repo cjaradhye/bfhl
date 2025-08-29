@@ -41,7 +41,7 @@ public class BfhlService {
         }
         BfhlResponse response = new BfhlResponse();
         response.setIs_success(true);
-        response.setUser_id(fullName.toLowerCase() + "_29082025");
+        response.setUser_id(fullName.toLowerCase() + "_07032003");
         response.setEmail(email);
         response.setCollege_roll_number(rollNumber);
         response.setEven_numbers(evenNumbers);
